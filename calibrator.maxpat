@@ -263,10 +263,10 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 220.0, 425.392151, 99.0, 22.0 ],
+					"outlettype" : [ "int" ],
+					"patching_rect" : [ 220.0, 425.392151, 63.0, 22.0 ],
 					"style" : "",
-					"text" : "expr $i1 + $i2"
+					"text" : "+ 0"
 				}
 
 			}
@@ -419,7 +419,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 3,
 					"outlettype" : [ "int", "int", "int" ],
-					"patching_rect" : [ 18.0, 357.0, 67.0, 22.0 ],
+					"patching_rect" : [ 18.0, 357.0, 59.0, 22.0 ],
 					"style" : "",
 					"text" : "trough"
 				}
@@ -760,7 +760,7 @@
 					"destination" : [ "obj-57", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 330.5, 415.0, 309.5, 415.0 ],
+					"midpoints" : [ 330.5, 417.0, 273.5, 417.0 ],
 					"source" : [ "obj-2", 1 ]
 				}
 
@@ -907,7 +907,7 @@
 					"destination" : [ "obj-34", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 151.5, 349.0, 75.5, 349.0 ],
+					"midpoints" : [ 151.5, 349.0, 67.5, 349.0 ],
 					"source" : [ "obj-38", 0 ]
 				}
 
